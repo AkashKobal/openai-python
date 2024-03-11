@@ -50,7 +50,7 @@ we recommend using [python-dotenv](https://pypi.org/project/python-dotenv/)
 to add `OPENAI_API_KEY="My API Key"` to your `.env` file
 so that your API Key is not stored in source control.
 
-## Async usage
+## Async usage 
 
 Simply import `AsyncOpenAI` instead of `OpenAI` and use `await` with each API call:
 
